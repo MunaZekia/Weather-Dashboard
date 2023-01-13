@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(125, 152, 152);
+}
+button{
+    background-color: rgb(60, 138, 234);
+    border-radius: 10%;
+    color: aliceblue;
+}
